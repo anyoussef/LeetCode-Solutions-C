@@ -1,3 +1,5 @@
+#include <stdbool.h>
+
 bool isValid(char* s){
     
     int n = 0;
