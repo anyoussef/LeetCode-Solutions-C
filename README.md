@@ -4,6 +4,7 @@
 Working through NeetCode's roadmap for LeetCode.
 
 <h3>Data Structure Implementations</h3>
+
 - Linked Lists (Singly & Doubly)
 - Stacks & Queues
 - Hashmaps & Hash Sets
@@ -11,6 +12,7 @@ Working through NeetCode's roadmap for LeetCode.
 - Graphs & Heaps
 
 <h3>Algorithmic Solutions</h3>
+
 - Sorting & Searching
 - Recursion & Backtracking
 - Dynamic Programming
@@ -18,6 +20,7 @@ Working through NeetCode's roadmap for LeetCode.
 - Bit Manipulation
 
 <h3>Why C?</h3>
+
 - Speed and performance
 - Forces understanding of data structures with limited standard library features
 
